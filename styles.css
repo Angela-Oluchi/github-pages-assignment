@@ -4,9 +4,9 @@ body {
     min-width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background-color:rgb(109, 39, 173);
+    background-color:rgb(78, 23, 129);
     border-radius: 20px;
-    color:aliceblue
+    color: white;
 }
 p {
     font-size: large;
@@ -46,7 +46,7 @@ fieldset {
 button {
     min-inline-size: 25rem;
     border-radius: 5px;
-    border: black;
+    border: 1px solid black ;
 }
 .excuse {
     font-weight:bolder;
