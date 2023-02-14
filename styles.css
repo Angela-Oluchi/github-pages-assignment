@@ -1,0 +1,55 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(109, 39, 173);
+    border-radius: 20px;
+    color:aliceblue
+}
+p {
+    font-size: large;
+    margin: 2px;
+}
+h2{
+    font-size: 30px;
+}
+.me {
+    color:red;
+}
+a {
+    color: red;
+}
+
+.intro {
+    border-style:none;
+}
+input {
+    display: block;
+    margin: 2rem 0px;
+    border: none;
+    font-size: large;
+    min-inline-size: 25rem;
+}
+label {
+font-size: large;
+
+}
+
+fieldset {
+    padding: 0 10px 10px 5px;
+    margin: auto;
+    border: none;
+
+}
+button {
+    min-inline-size: 25rem;
+    border-radius: 5px;
+    border: black;
+}
+.excuse {
+    font-weight:bolder;
+    font-style: italic;
+    color: red;
+}
